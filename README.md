@@ -21,4 +21,4 @@ An app to track dream destinations, using MapKit, Touch ID and Face ID.
 - introducing MVVM.
 - locking the UI behind Face ID.
 
-Based on [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) by Paul Hudson - Hacking with Swift (2022).
+
